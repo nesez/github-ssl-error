@@ -1,4 +1,4 @@
-# github-ssl-error
+# github-ssl-error[fixed]
 How to solve github ssl error (2020.11.02)[fixed]<br><br>
 <img class="github"
      src="https://github.com/nesez/github-ssl-error/blob/main/github.png">
